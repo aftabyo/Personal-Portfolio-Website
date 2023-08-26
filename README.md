@@ -1,6 +1,6 @@
 # Personal-Portfolio-Website
 This is my Personal Portfolio Website
 
+![image](https://github.com/aftabyo/Personal-Portfolio-Website/assets/86048783/3a6913f3-39c2-4502-ba84-b30db2c3c17f)
 
-https://github.com/aftabyo/Personal-Portfolio-Website/assets/86048783/dcd59fbd-d815-4fc3-9fa6-863703cc991e
 
